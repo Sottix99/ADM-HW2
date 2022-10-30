@@ -1,6 +1,14 @@
 # Second Homework for Algorithmic Methods of Data Mining
 
-This git repository contains our solution for the homework2.
+## Team
+
+- Alessandro Sottile.
+- Davide Vigneri.
+- Mario Edoardo Pandolfo.
+
+## Repository
+
+This git repository contains our solution for the homework 2.
 
 There are two main files:
 
