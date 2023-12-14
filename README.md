@@ -1,5 +1,5 @@
 # Second Homework for Algorithmic Methods of Data Mining
-
+This repository refers to the [second homework](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_2) of the ADM course at University Sapienza of Rome 2022/2023
 ## Team
 
 - Alessandro Sottile 1873637.
