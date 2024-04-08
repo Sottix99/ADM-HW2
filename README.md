@@ -13,7 +13,7 @@ The goal is to answer some research questions (RQs) that may help to discover an
 - Mario Edoardo Pandolfo 1835189.
 
 ## Repository
-
+ 
 This git repository contains our solution for the homework 2.
 
 There are two main files:
